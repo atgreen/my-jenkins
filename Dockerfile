@@ -1,4 +1,4 @@
-FROM openshift/jenkins2:latest
+FROM openshift/jenkins:latest
 
 MAINTAINER Anthony Green <green@redhat.com>
 
